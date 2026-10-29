@@ -25,16 +25,12 @@ Your MongoDB Atlas database has already been configured and verified:
 
 ## 🐙 Phase 2: Push Project to GitHub
 
-1. Create a new repository on your GitHub account:
-   - Go to [https://github.com/new](https://github.com/new).
-   - Repository name: `student-management` (or `three-tier-student-management`).
-   - Description: `Design and Deployment of a Three-Tier Web Application Using Netlify, Render, and MongoDB Atlas`.
-   - Visibility: **Public**.
-   - Do NOT check "Initialize this repository with a README".
+1. Repository URL:
+   `https://github.com/AbhijeetShelke22/Student-Management-sys.git`
 2. Link your local project and push to your repository:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/student-management.git
+   git remote add origin https://github.com/AbhijeetShelke22/Student-Management-sys.git
    git push -u origin main
    ```
 
@@ -49,7 +45,7 @@ Your MongoDB Atlas database has already been configured and verified:
 2. **Create New Web Service:**
    - Click **New +** > **Web Service**.
    - Select **Build and deploy from a Git repository**.
-   - Connect your repository: `<YOUR_GITHUB_USERNAME>/student-management`.
+   - Connect your repository: `AbhijeetShelke22/Student-Management-sys`.
 
 3. **Configure Service Details:**
    - **Name:** `student-management-api`
@@ -83,7 +79,7 @@ Your MongoDB Atlas database has already been configured and verified:
 
 2. **Import Repository:**
    - Click **Add new site** > **Import an existing project**.
-   - Select **GitHub** and authorize access to `<YOUR_GITHUB_USERNAME>/student-management`.
+   - Select **GitHub** and authorize access to `AbhijeetShelke22/Student-Management-sys`.
 
 3. **Configure Build Settings:**
    - **Branch to deploy:** `main`
