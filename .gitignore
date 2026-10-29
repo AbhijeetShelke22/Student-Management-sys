@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Sensitive Credentials
+.env
+.env.*
+*.env
+atlas-credentials.env
+backend/.env
+
+# Temporary / OS
+*.crdownload
+.DS_Store
+Thumbs.db
+
+# Documents
+*.docx
+
+# IDEs
+.vscode/
+.idea/
