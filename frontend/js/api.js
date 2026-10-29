@@ -3,7 +3,7 @@
 
 const API = (() => {
   // Configured Render URL for this deployment
-  const DEFAULT_RENDER_URL = 'https://three-tier-student-management.onrender.com';
+  const DEFAULT_RENDER_URL = 'https://student-management-sys-ebpp.onrender.com';
   const LOCAL_URL = 'http://localhost:5000';
 
   const getBaseUrl = () => {

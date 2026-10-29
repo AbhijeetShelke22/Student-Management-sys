@@ -153,6 +153,6 @@ When a user adds a student, here is the exact journey of that data across the in
 ---
 
 ## 🔗 7. Live Project Links
-* **Frontend (Netlify):** [https://student-management-three.netlify.app/](https://student-management-three.netlify.app/)
-* **Backend API (Render):** [https://three-tier-student-management.onrender.com/](https://three-tier-student-management.onrender.com/)
+* **Frontend (Netlify):** [https://idyllic-jalebi-cf6af1.netlify.app/](https://idyllic-jalebi-cf6af1.netlify.app/)
+* **Backend API (Render):** [https://student-management-sys-ebpp.onrender.com/](https://student-management-sys-ebpp.onrender.com/)
 * **GitHub Repository:** [https://github.com/AbhijeetShelke22/Student-Management-sys](https://github.com/AbhijeetShelke22/Student-Management-sys)

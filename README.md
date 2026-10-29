@@ -145,8 +145,8 @@ Open `frontend/index.html` in your web browser (or serve it with Live Server / h
 
 ## ☁️ Cloud Deployment Links (Post-Deployment)
 
-- **Presentation Tier (Netlify):** `https://<your-site-name>.netlify.app`
-- **Application Tier (Render):** `https://<your-service-name>.onrender.com`
+- **Presentation Tier (Netlify):** [https://idyllic-jalebi-cf6af1.netlify.app](https://idyllic-jalebi-cf6af1.netlify.app)
+- **Application Tier (Render):** [https://student-management-sys-ebpp.onrender.com](https://student-management-sys-ebpp.onrender.com)
 - **Database Tier (MongoDB Atlas):** Managed cluster `cluster0.8ryeicv.mongodb.net` under `abhijeetshelke2004@gmail.com`
 
 ---
