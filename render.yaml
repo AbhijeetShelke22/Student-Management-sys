@@ -14,10 +14,7 @@ services:
         sync: false
       - key: FRONTEND_URL
         value: "*"
-<<<<<<< HEAD
-=======
 
->>>>>>> 097a4b3d3adfb7f0652e5d45898c5c0193b8b1d4
   - type: web
     name: student-management-mcp
     env: node
